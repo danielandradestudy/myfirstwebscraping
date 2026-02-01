@@ -11,9 +11,12 @@ Este foi o meu primeiro projeto de Web Scraping, focado em entender o ciclo de v
 
 
 
+https://github.com/user-attachments/assets/ed0fc676-164b-41c4-b98b-dfbc96467810
 
 
-https://github.com/user-attachments/assets/a331073e-bdba-49d7-a560-a469a61ffb42
+
+
+
 
 
 
