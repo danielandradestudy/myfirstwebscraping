@@ -10,6 +10,14 @@ Este é um script de automação desenvolvido para extrair notícias de feeds RS
 Este foi o meu primeiro projeto de Web Scraping, focado em entender o ciclo de vida de uma requisição HTTP até a persistência dos dados em formato tabular.
 
 
+
+
+
+https://github.com/user-attachments/assets/a331073e-bdba-49d7-a560-a469a61ffb42
+
+
+
+
 ## 🚀 Funcionalidades
 * Coleta automatizada via protocolo HTTP.
 * Parsing de arquivos XML/RSS usando **BeautifulSoup**.
