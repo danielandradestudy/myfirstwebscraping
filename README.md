@@ -9,8 +9,6 @@ Este é um script de automação desenvolvido para extrair notícias de feeds RS
 
 Este foi o meu primeiro projeto de Web Scraping, focado em entender o ciclo de vida de uma requisição HTTP até a persistência dos dados em formato tabular.
 
-## 👤 Autor
-* **Daniel Andrade** - [Seu Perfil no GitHub](https://github.com/seu-usuario)
 
 ## 🚀 Funcionalidades
 * Coleta automatizada via protocolo HTTP.
@@ -18,15 +16,3 @@ Este foi o meu primeiro projeto de Web Scraping, focado em entender o ciclo de v
 * Estruturação de dados com **Pandas**.
 * Exportação de relatórios em **CSV** com codificação compatível com Excel (`utf-8-sig`).
 
-## 🛠️ Tecnologias e Dependências
-Para rodar este projeto, você precisará das seguintes bibliotecas:
-
-* **urllib**: Para requisições ao servidor.
-* **BeautifulSoup4**: Para extração de dados das tags XML.
-* **lxml**: Para processamento de alta performance do XML.
-* **Pandas**: Para organização e exportação dos dados.
-
-## 📋 Como usar
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
